@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-SarahTest::Application.load_tasks
+TwitterForZombies::Application.load_tasks
