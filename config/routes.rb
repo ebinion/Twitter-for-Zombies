@@ -1,3 +1,3 @@
 TwitterForZombies::Application.routes.draw do
-  resource "Tweets"
+  resources :tweets
 end
